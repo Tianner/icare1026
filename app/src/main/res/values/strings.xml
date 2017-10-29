@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">THB</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">自定义</string>
+    <string name="display_name">智能生活</string>
+    <string name="user_contact">tianhaibo@gmail.com</string>
+    <string name="menu_server">服务器</string>
+    <string name="menu_console">控制台</string>
+    <string name="menu_instruction">指南</string>
+    <string name="menu_tools">工具</string>
+    <string name="menu_contact">互动</string>
+    <string name="menu_share">分享</string>
+    <string name="menu_feedback">反馈</string>
+
+    <!--提示信息-->
+    <string name="tips_server">服务器页面提示信息</string>
+    <string name="tips_console">控制台页面提示信息</string>
+    <string name="tips_insrtuction">指南页面提示信息</string>
+    <string name="tips_tools">工具页面提示信息</string>
+    <string name="tips_share">工具页面提示信息</string>
+    <string name="tips_feedback">工具页面提示信息</string>
+
+</resources>
